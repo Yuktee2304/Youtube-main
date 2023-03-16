@@ -109,7 +109,7 @@ nav{
     align-items: center;
     margin-bottom: 20px;
     width: fit-content;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 .subcribed-list a img{
     width: 25px;
